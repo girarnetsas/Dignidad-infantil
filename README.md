@@ -4,8 +4,7 @@
 
 <h1 align="center">Dignidad Infantil</h1>
 
-*“Cero tolerancias con la explotación de menores de edad en redes
-electrónicas”*. 
+<h3 align="center">*“Cero tolerancias con la explotación de menores de edad en redes electrónicas.”*</h3>
 
 Para prevenir y contrarrestar el flagelo de este fenómeno en Colombia y el mundo, denuncia en: www.enticconfio.gov.co/denuncia GirarNET se acoge a las disposiciones sobre Internet Sano (**Ley 679 de 2001 y del Decreto 1524 de 2004**), con el fin de prevenir, bloquear,combatir y denunciar la explotación, alojamiento, uso, publicación, difusión de imágenes, textos, documentos, archivos audiovisuales y cualquier uso indebido de los medios de comunicación.
 La Ley 679 de 2001, expedida en desarrollo del artículo 44 de la Constitución Política de Colombia, pretender dictar medidas preventivas y sanciones para quienes exploten y/o abusen sexualmente de los menores de edad, para así, ayudar a que tengan un desarrollo integral y sano.
