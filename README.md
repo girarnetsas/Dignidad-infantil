@@ -11,8 +11,7 @@ Para prevenir y contrarrestar el flagelo de este fenómeno en Colombia y el mund
 La Ley 679 de 2001, expedida en desarrollo del artículo 44 de la Constitución Política de Colombia, pretender dictar medidas preventivas y sanciones para quienes exploten y/o abusen sexualmente de los menores de edad, para así, ayudar a que tengan un desarrollo integral y sano.
 
 
-> **Warning** 
-  
+> **Warning**\  
   *Señor usuario, lo invitamos a denunciar sitios y contenidos de pornografía de menores de edad y páginas electrónicas en las que se ofrezcan servicios sexuales con niños en:*
   
   - **Ministerio de Tecnologías de la Información y las Comunicaciones - (MinTIC)**\
