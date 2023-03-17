@@ -13,8 +13,9 @@ La Ley 679 de 2001, expedida en desarrollo del artículo 44 de la Constitución 
 
 
 > **Warning**   
-
-<p align="justify"><strong>Señor usuario, lo invitamos a denunciar sitios y contenidos de pornografía de menores de edad y páginas electrónicas en las que se ofrezcan servicios sexuales con niños en:</strong></p>
+> Señor usuario, lo invitamos a denunciar sitios y contenidos de pornografía de menores de edad y páginas electrónicas en las que se ofrezcan servicios sexuales con niños.
+> 
+<!-- <p align="justify"><strong>Señor usuario, lo invitamos a denunciar sitios y contenidos de pornografía de menores de edad y páginas electrónicas en las que se ofrezcan servicios sexuales con niños en:</strong></p> -->
   
   - **Ministerio de Tecnologías de la Información y las Comunicaciones - (MinTIC)**\
   Dignidad Infantil\
